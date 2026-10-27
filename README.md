@@ -22,11 +22,11 @@ Upmark/Chắp dấu - A secret project of mine on adding Vietnamese support to u
 
 # Progress
 - *Yes, I did that before creating this.*
-- MARTIAN GROTESK: [[https://github.com/evilmartians/grotesk|Original Link]]
+- MARTIAN GROTESK: [Original Link](https://github.com/evilmartians/grotesk)
   - Vietnamese glyphs: ADDED (100%) - just need some more fix on the glyphs
   - Suggestion: DONE
   - Currently: Working to refine the glyphs.
-- MOZILLA HEADLINE and MOZILLA TEXT: [[https://github.com/mozilla/mozilla-headline-type|Headline]], [[https://github.com/mozilla/mozilla-headline-type|Text]]
+- MOZILLA HEADLINE and MOZILLA TEXT: [Headline](https://github.com/mozilla/mozilla-headline-type), [Text](https://github.com/mozilla/mozilla-text-type)
   - Vietnamese glyphs: 25% - only the Uppercase for the Headline typeface
   - Suggestion: NOTHING
   - Currently: Adding glyphs
