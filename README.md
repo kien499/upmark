@@ -33,3 +33,8 @@ Upmark/Chắp dấu - A secret project of mine on adding Vietnamese support to u
   - Suggestion: NOTHING
   - Currently: Adding glyphs
 - ...*the next typeface will appear here*
+# Which typefaces next?
+- _Schibsted Grotesk: [Original Link](https://github.com/schibsted/schibsted-grotesk)_
+- _Sofia Sans: [Original Link](https://github.com/lettersoup/Sofia-Sans)_
+- _Sora: [Original Link](https://github.com/sora-xor/sora-font)_
+- _more will be updated and move to the progress above_
