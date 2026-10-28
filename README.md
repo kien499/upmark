@@ -29,7 +29,7 @@ Upmark/Chắp dấu - A secret project of mine on adding Vietnamese support to u
   - Suggestion: DONE
   - Currently: Working to refine the glyphs.
 - MOZILLA HEADLINE and MOZILLA TEXT: [Headline](https://github.com/mozilla/mozilla-headline-type), [Text](https://github.com/mozilla/mozilla-text-type)
-  - Vietnamese glyphs: 25% - only the Uppercase for the Headline typeface
+  - Vietnamese glyphs: 50% - completed the Headline typeface
   - Suggestion: NOTHING
   - Currently: Adding glyphs
 - ...*the next typeface will appear here*
