@@ -28,11 +28,12 @@ Upmark/Chắp dấu - A secret project of mine on adding Vietnamese support to u
   - Vietnamese glyphs: ADDED (100%) - just need some more fix on the glyphs
   - Suggestion: DONE
   - Currently: Working to refine the glyphs.
+  - Issue link: [Issue Number 7](https://github.com/evilmartians/grotesk/issues/7)
 - MOZILLA HEADLINE and MOZILLA TEXT: [Headline](https://github.com/mozilla/mozilla-headline-type), [Text](https://github.com/mozilla/mozilla-text-type)
-  - Vietnamese glyphs: 50% - completed the Headline typeface
-  - Suggestion: NOTHING
-  - Currently: Adding glyphs
-- ...*the next typeface will appear here*
+  - Vietnamese glyphs: ADDED (100%)
+  - Suggestion: DONE - waiting for respond
+  - Currently: _do nothing_
+  - Issue link: [Issue Number 4](https://github.com/mozilla/mozilla-headline-type/issues/4)
 # Which typefaces next?
 - _Schibsted Grotesk: [Original Link](https://github.com/schibsted/schibsted-grotesk)_
 - _Sofia Sans: [Original Link](https://github.com/lettersoup/Sofia-Sans)_
